@@ -9,5 +9,5 @@ The [original dataset](https://docs.google.com/spreadsheets/d/1SmD4-xZQLOka6_0u4
 
 # Reference
 1. Thailand's 2023 Election result from [ThaiPBS](https://election66.thaipbs.or.th/result).
-2. Official Thailand's 2023 election result from [ECT](election66.thaipbs.or.th/result/geo/areas/1603).
+2. Official Thailand's 2023 election result from [ECT](https://official.ectreport.com/overview).
 3. Pumjai Chatmaitri's [analysis of election fraud](https://smiley159.github.io/Unveiling-Electoral-Deception/?fbclid=IwAR1vIpo-T-hMOfgXGwH_BniEq0FUHQc_MaCehqZoP-zeb3byc_5CgQ-HDrE).
