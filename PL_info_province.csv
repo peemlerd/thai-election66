@@ -1,0 +1,78 @@
+province_id,prov_id,province,region,eng,abbre_thai,total_registered_vote,total_vote_stations,vote_per_station
+10,BKK,กรุงเทพมหานคร,central,BANGKOK,กทม,4479155,6360,704
+12,NBI,นนทบุรี,central,NONTHABURI,นบ,1056364,1308,808
+13,PTE,ปทุมธานี,central,PATHUM THANI,ปท,960641,1422,676
+14,AYA,พระนครศรีอยุธยา,central,PHRA NAKHON SI AYUTTHAYA,อย,664431,1060,627
+15,ATG,อ่างทอง,central,ANG THONG,อท,224656,492,457
+16,LRI,ลพบุรี,central,LOP BURI,ลบ,598151,1033,579
+17,SBR,สิงห์บุรี,central,SING BURI,สห,168055,213,789
+18,CNT,ชัยนาท,central,CHAI NAT,ชน,262359,505,520
+19,SRI,สระบุรี,central,SARABURI,สบ,509018,759,671
+11,SPK,สมุทรปราการ,east,SAMUT PRAKAN,สป,1086284,1438,755
+20,CBI,ชลบุรี,east,CHON BURI,ชบ,1234192,1439,858
+21,RYG,ระยอง,east,RAYONG,รย,587660,803,732
+22,CTI,จันทบุรี,east,CHANTHABURI,จบ,427917,834,513
+23,TRT,ตราด,east,TRAT,ตร,175112,314,558
+24,CCO,ฉะเชิงเทรา,east,CHACHOENGSAO,ฉช,576962,973,593
+25,PRI,ปราจีนบุรี,east,PRACHIN BURI,ปจ,394789,765,516
+26,NYK,นครนายก,east,NAKHON NAYOK,นย,209962,460,456
+27,SKW,สระแก้ว,east,SA KAEO,สก,437612,800,547
+50,CMI,เชียงใหม่,north,CHIANG MAI,ชม,1331007,2615,509
+51,LPN,ลำพูน,north,LAMPHUN,ลพ,333846,687,486
+52,LPG,ลำปาง,north,LAMPANG,ลป,612603,1187,516
+53,UTT,อุตรดิตถ์,north,UTTARADIT,อต,368323,732,503
+54,PRE,แพร่,north,PHRAE,พร,366015,774,473
+55,NAN,น่าน,north,NAN,นน,389371,929,419
+56,PYO,พะเยา,north,PHAYAO,พย,386807,862,449
+57,CRI,เชียงราย,north,CHIANG RAI,ชร,944019,1977,478
+58,MSN,แม่ฮ่องสอน,north,MAE HONG SON,มส,180959,463,391
+60,NSN,นครสวรรค์,north,NAKHON SAWAN,นว,839746,1630,515
+61,UTI,อุทัยธานี,north,UTHAI THANI,อน,260983,617,423
+62,KPT,กำแพงเพชร,north,KAMPHAENG PHET,กพ,567999,1123,506
+63,TAK,ตาก,north,TAK,ตก,404274,683,592
+64,STI,สุโขทัย,north,SUKHOTHAI,สท,479558,980,489
+65,PLK,พิษณุโลก,north,PHITSANULOK,พล,686536,1277,538
+66,PCT,พิจิตร,north,PHICHIT,พจ,428861,1008,425
+67,PNB,เพชรบูรณ์,north,PHETCHABUN,พช,784388,1647,476
+30,NMA,นครราชสีมา,northeast,NAKHON RATCHASIMA,นม,2120399,4487,473
+31,BRM,บุรีรัมย์,northeast,BURI RAM,บร,1250148,2568,487
+32,SRN,สุรินทร์,northeast,SURIN,สร,1090337,2189,498
+33,SSK,ศรีสะเกษ,northeast,SI SA KET,ศก,1162288,2750,423
+34,UBN,อุบลราชธานี,northeast,UBON RATCHATHANI,อบ,1473971,3027,487
+35,YST,ยโสธร,northeast,YASOTHON,ยส,432872,905,478
+36,CPM,ชัยภูมิ,northeast,CHAIYAPHUM,ชย,902888,1948,463
+37,ACR,อำนาจเจริญ,northeast,AMNAT CHAROEN,อจ,301354,641,470
+38,BKN,บึงกาฬ,northeast,BUENG KAN,บก,327745,652,503
+39,NBP,หนองบัวลำภู,northeast,NONG BUA LAM PHU,นภ,405513,797,509
+40,KKN,ขอนแก่น,northeast,KHON KAEN,ขก,1449595,2679,541
+41,UDN,อุดรธานี,northeast,UDON THANI,อด,1248824,2252,555
+42,LEI,เลย,northeast,LOEI,ลย,504875,1016,497
+43,NKI,หนองคาย,northeast,NONG KHAI,นค,410200,799,513
+44,MKM,มหาสารคาม,northeast,MAHA SARAKHAM,มค,774191,1783,434
+45,RET,ร้อยเอ็ด,northeast,ROI ET,รอ,1054706,2525,418
+46,KSN,กาฬสินธุ์,northeast,KALASIN,กส,788214,1617,487
+47,SNK,สกลนคร,northeast,SAKON NAKHON,สน,909763,1679,542
+48,NPM,นครพนม,northeast,NAKHON PHANOM,นพ,568353,1137,500
+49,MDH,มุกดาหาร,northeast,MUKDAHAN,มห,276802,596,464
+80,NST,นครศรีธรรมราช,south,NAKHON SI THAMMARAT,นศ,1220778,2151,568
+81,KBI,กระบี่,south,KRABI,กบ,357245,587,609
+82,PNA,พังงา,south,PHANGNGA,พง,206837,356,581
+83,PKT,ภูเก็ต,south,PHUKET,ภก,313475,380,825
+84,SNI,สุราษฎร์ธานี,south,SURAT THANI,สฎ,830330,1434,579
+85,RNG,ระนอง,south,RANONG,รน,140024,209,670
+86,CPN,ชุมพร,south,CHUMPHON,ชพ,404208,745,543
+90,SKA,สงขลา,south,SONGKHLA,สข,1098389,1748,628
+91,STN,สตูล,south,SATUN,สต,240492,367,655
+92,TRG,ตรัง,south,TRANG,ตง,502356,903,556
+93,PLG,พัทลุง,south,PHATTHALUNG,พท,417458,773,540
+94,PTN,ปัตตานี,south,PATTANI,ปน,510073,826,618
+95,YLA,ยะลา,south,YALA,ยล,382271,596,641
+96,NWT,นราธิวาส,south,NARATHIWAT,นธ,576512,1000,577
+70,RBR,ราชบุรี,west,RATCHABURI,รบ,682463,1111,614
+71,KRI,กาญจนบุรี,west,KANCHANABURI,กจ,646081,1045,618
+72,SPB,สุพรรณบุรี,west,SUPHAN BURI,สพ,675285,1236,546
+73,NPT,นครปฐม,west,NAKHON PATHOM,นฐ,739787,1247,593
+74,SKN,สมุทรสาคร,west,SAMUT SAKHON,สค,446390,615,726
+75,SKM,สมุทรสงคราม,west,SAMUT SONGKHRAM,สส,156558,257,609
+76,PBI,เพชรบุรี,west,PHETCHABURI,พบ,389060,703,553
+77,PKN,ประจวบคีรีขันธ์,west,PRACHUAP KHIRI KHAN,ปข,430869,632,682
